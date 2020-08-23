@@ -1,0 +1,30 @@
+body{
+	margin: 15px;
+	
+}
+h2{
+	text-align: center;
+	color: blue;
+}
+/*
+section{
+	display:inline-block;
+}*/
+.button{
+	width:30%;
+	background-color: grey;
+	display:inline-block;
+	margin: 10px;
+	padding: 5px;
+	float: left;
+	box-sizing:content-box;
+	border: 5px solid;
+}
+
+h3{
+	color:pink;
+	text-align: right;
+	margin-right:5%;
+	table-layout:4px;
+	
+}
